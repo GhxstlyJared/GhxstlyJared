@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&theme=great-gatsby&count_private=true&$card_width=1000$include_all_commits=true&line_height=35)]([https://www.linkedin.com/in/kuznetsovivandev])
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&count_private=true&$card_width=1000$include_all_commits=true&line_height=35)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GhxstlyJared)](https://github.com/anuraghazra/github-readme-stats)
