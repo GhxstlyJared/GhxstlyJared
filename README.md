@@ -17,7 +17,7 @@
 
  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=true$include_all_commits=true&line_height=35&hide=stars)](https://www.linkedin.com/in/kuznetsovivandev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=true$include_all_commits=true&line_height=35&hide=stars&include_all_commits=true)](https://www.linkedin.com/in/kuznetsovivandev)
    
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@GhxstlyJared&layout=compat)](https://www.linkedin.com/in/kuznetsovivandev)
  
