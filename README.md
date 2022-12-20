@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghxstlyjared" alt="ghxstlyjared" /></a> </p>
 
+![image](https://user-images.githubusercontent.com/86606235/208611556-6d74c613-ce16-45b0-aa96-f1f9053cb27a.png)
+
 - 🌱 I’m currently learning **Kotlin, Dart, Swift, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhxstlyJared](https://github.com/GhxstlyJared)
