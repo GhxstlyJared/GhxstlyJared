@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kuznetsov Ivan</h1>
 <h3 align="center">Mobile Developer or just a good boi 🥷</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghxstlyjared" alt="ghxstlyjared" /></a> </p>
-
 ![image](https://user-images.githubusercontent.com/86606235/208611556-6d74c613-ce16-45b0-aa96-f1f9053cb27a.png)
 
 - 🌱 I’m currently learning **Kotlin, Dart, Swift, Node.js**
