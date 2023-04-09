@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/GhxstlyJared](https://github.com/GhxstlyJared)
 
-- 📫 How to reach me **ghxstlyjareddev.@gmail.com**
+- 📫 How to reach me **ghxstlyjareddev@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kuznetsovivandev/](https://www.linkedin.com/in/kuznetsovivandev/)
 
