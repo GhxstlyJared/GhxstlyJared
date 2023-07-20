@@ -21,7 +21,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=false&include_all_commits=true&line_height=35&hide=stars" />
 </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@GhxstlyJared&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&hide_progress=true)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
