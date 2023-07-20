@@ -18,17 +18,17 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=false&include_all_commits=true&line_height=35&hide=stars" />
-</a> </p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kuznetsovivandev">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&hide_progress=true&langs_count=10" />
 </a> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhxstlyJared&layout=compact&hide_progress=true&langs_count=20" />
+</a> </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/kuznetsovivandev">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=false&include_all_commits=true&line_height=35&hide=stars" />
 </a> </p>
 
 <p align="center">
