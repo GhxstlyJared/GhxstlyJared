@@ -23,7 +23,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&hide_progress=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&hide_progress=true&langs_count=10" />
 </a> </p>
 
 <p align="center">
