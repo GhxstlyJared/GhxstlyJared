@@ -28,7 +28,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhxstlyJared&layout=compat&hide_progress=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=GhxstlyJared&layout=normal&hide_progress=true" />
 </a> </p>
 
 <p align="center">
