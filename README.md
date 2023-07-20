@@ -18,7 +18,7 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kuznetsovivandev">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=true&include_all_commits=true&line_height=35&hide=stars" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=false&include_all_commits=true&line_height=35&hide=stars" />
 </a> </p>
 
 <p align="center">
