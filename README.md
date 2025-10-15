@@ -35,7 +35,7 @@
 <p align="center">
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="Ethereum" width="40" height="40"/> </a>
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer"> <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin" width="40" height="40"/> </a>
-  <a href="https://walletconnect.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/vector-logo/430923/walletconnect" alt="WalletConnect" width="40" height="40"/> </a>
+  <a href="https://walletconnect.com/" target="_blank" rel="noreferrer"> <img src="https://altcoinsbox.com/wp-content/uploads/2023/04/wallet-connect-logo.png" alt="WalletConnect" width="40" height="40"/> </a>
   <a href="https://web3j.io/" target="_blank" rel="noreferrer"> <img src="https://docs.web3j.io/images/web3j_logo.png" alt="Web3j" width="40" height="40"/> </a>
 </p>
 
