@@ -57,14 +57,13 @@
 <p align="center">
   <a href="https://ethereum.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" alt="Ethereum" width="40" height="40"/> </a>
   <a href="https://bitcoin.org/" target="_blank" rel="noreferrer"> <img src="https://bitcoin.org/img/icons/opengraph.png" alt="Bitcoin" width="40" height="40"/> </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://docs.soliditylang.org/en/v0.8.17/_static/logo.svg" alt="Solidity" width="40" height="40"/> </a>
   <a href="https://walletconnect.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/37784886" alt="WalletConnect" width="40" height="40"/> </a>
 </p>
 
 <!-- Tools & Infrastructure -->
 <p align="center">
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" width="40" height="40"/> </a>
-  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:300/1*9x5dEsqBJjSy5EzB8JN8CQ.png" alt="Hilt" width="40" height="40"/> </a>
+  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:594/1*6tHWmspyG-13IWjPk6BbjA.png" alt="Hilt" width="40" height="40"/> </a>
   <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"> <img src="https://square.github.io/okhttp/assets/images/icon-square.png" alt="Retrofit" width="40" height="40"/> </a>
   <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Room" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
