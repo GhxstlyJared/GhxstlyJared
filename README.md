@@ -42,7 +42,7 @@
 <!-- Architecture & DI -->
 <p align="center">
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" alt="Gradle" width="40" height="40"/> </a>
-  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/google/dagger/master/logo.png" alt="Hilt/Dagger" width="40" height="40"/> </a>
+  <a href="https://dagger.dev/hilt/" target="_blank" rel="noreferrer"> <img src="https://www.shutterstock.com/image-vector/dependency-injection-icon-element-design-600nw-2588787461.jpg" alt="Hilt/Dagger" width="40" height="40"/> </a>
   <a href="https://developer.android.com/training/data-storage/room" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="Room/SQLite" width="40" height="40"/> </a>
   <a href="https://square.github.io/retrofit/" target="_blank" rel="noreferrer"> <img src="https://square.github.io/okhttp/assets/images/icon-square.png" alt="Retrofit/OkHttp" width="40" height="40"/> </a>
 </p>
