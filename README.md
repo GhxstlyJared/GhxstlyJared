@@ -82,12 +82,13 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&langs_count=10&layout=compact&theme=radical&hide_border=true&card_width=500" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhxstlyJared&langs_count=20&layout=compact&theme=radical&hide_border=true&card_width=500" />
 </p>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GhxstlyJared&theme=radical&hide_border=true" />
-</p>
+<a href="https://www.linkedin.com/in/kuznetsovivandev">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GhxstlyJared&show_icons=true&count_private=true&include_all_commits=true&line_height=35&hide=stars&card_width=500" />
+</a> </p>
 
 ---
 
